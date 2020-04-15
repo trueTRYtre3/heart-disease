@@ -1,2 +1,3 @@
 # heart-disease
-Using the Heart Disease dataset to learn ML models
+Learning Machine Learning:
+Using the Heart Disease dataset provided by UCI to learn ML models
